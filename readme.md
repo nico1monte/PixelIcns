@@ -17,4 +17,7 @@ PixelIcns is a web tool with pixelated icons.
 
 ## How I import PixelIcns in my HTML page?
 
-Wait a few moments, CSS files appears with the configurations, and you can use the icons.
+You need to paste this code in your HTML page:
+
+> [!NOTE]
+> HTML Code in process, required CSS.
