@@ -1,3 +1,7 @@
+<div align="center">
+<img src="./icons/png/logo2.png">
+</div>
+
 # PixelIcons
 
 PixelIcns is a web tool with pixelated icons.
