@@ -15,6 +15,8 @@ PixelIcns is a web tool with pixelated icons.
 ![5.svg](./icons/svg/5.svg)
 ![github.svg](./icons/svg/github.svg)
 
+You can visit [This MarkDown document](./examplemd.md) for view an example
+
 ## How I import PixelIcns in my HTML page?
 
 > [!NOTE] 
