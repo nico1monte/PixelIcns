@@ -1,7 +1,4 @@
-# PixelIcns
-
-> [!WARNING]
-> Project in development, report issues in Issues.
+# PixelIcons
 
 PixelIcns is a web tool with pixelated icons.
 
