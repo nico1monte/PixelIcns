@@ -1,5 +1,8 @@
 # PixelIcns
 
+> [!WARN]
+> Project in development, report issues in Issues.
+
 PixelIcns is a web tool with pixelated icons.
 
 ## Ones of our icons
@@ -17,7 +20,33 @@ PixelIcns is a web tool with pixelated icons.
 
 ## How I import PixelIcns in my HTML page?
 
-You need to paste this code in your HTML page:
+> [!NOTE] 
+> Recomended to use a dark screen in your HTML
 
 > [!NOTE]
-> HTML Code in process, required CSS.
+> The icons have enabled to size, e.t.c.
+
+If you want SVG icons, you have here a example how to use it:
+
+```html
+<!DOCTYPE html>
+<html>
+    
+    <body>
+        <p>Hi.</p>
+        <img src="https://raw.githubusercontent.com/nico1monte/PixelIcns/91169b9abde0d5df19597e8cca2f044f81f0ce23/icons/svg/github.svg">
+    </body>
+</html>
+```
+
+But if you want to use PNG icons, you have here a example how to use it:
+
+```html
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Hi.</p>
+        <img src="https://raw.githubusercontent.com/nico1monte/PixelIcns/refs/heads/main/icons/png/github.png">
+    </body>
+</html>
+```
