@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: visioncortex VTracer 0.6.4 -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="270" height="160">
+<path d="M0 0 C89.1 0 178.2 0 270 0 C270 52.8 270 105.6 270 160 C180.9 160 91.8 160 0 160 C0 107.2 0 54.4 0 0 Z " fill="#E2FF8B" transform="translate(0,0)"/>
+<path d="M0 0 C3.3 0 6.6 0 10 0 C10 33 10 66 10 100 C23.2 100 36.4 100 50 100 C50 103.3 50 106.6 50 110 C33.5 110 17 110 0 110 C0 73.7 0 37.4 0 0 Z " fill="#000000" transform="translate(30,30)"/>
+<path d="M0 0 C9.9 0 19.8 0 30 0 C30 6.6 30 13.2 30 20 C26.7 20 23.4 20 20 20 C20 23.3 20 26.6 20 30 C16.7 30 13.4 30 10 30 C10 33.3 10 36.6 10 40 C6.7 40 3.4 40 0 40 C0 26.8 0 13.6 0 0 Z " fill="#000000" transform="translate(200,90)"/>
+<path d="M0 0 C3.3 0 6.6 0 10 0 C10 16.5 10 33 10 50 C6.7 50 3.4 50 0 50 C0 33.5 0 17 0 0 Z " fill="#000000" transform="translate(110,90)"/>
+<path d="M0 0 C3.3 0 6.6 0 10 0 C10 9.9 10 19.8 10 30 C6.7 30 3.4 30 0 30 C0 20.1 0 10.2 0 0 Z " fill="#000000" transform="translate(180,90)"/>
+<path d="M0 0 C3.3 0 6.6 0 10 0 C10 9.9 10 19.8 10 30 C6.7 30 3.4 30 0 30 C0 20.1 0 10.2 0 0 Z " fill="#000000" transform="translate(140,90)"/>
+<path d="M0 0 C6.6 0 13.2 0 20 0 C20 3.3 20 6.6 20 10 C13.4 10 6.8 10 0 10 C0 6.7 0 3.4 0 0 Z " fill="#000000" transform="translate(210,130)"/>
+<path d="M0 0 C3.3 0 6.6 0 10 0 C10 3.3 10 6.6 10 10 C6.7 10 3.4 10 0 10 C0 6.7 0 3.4 0 0 Z " fill="#000000" transform="translate(160,130)"/>
+<path d="M0 0 C3.3 0 6.6 0 10 0 C10 3.3 10 6.6 10 10 C6.7 10 3.4 10 0 10 C0 6.7 0 3.4 0 0 Z " fill="#000000" transform="translate(170,120)"/>
+<path d="M0 0 C3.3 0 6.6 0 10 0 C10 3.3 10 6.6 10 10 C6.7 10 3.4 10 0 10 C0 6.7 0 3.4 0 0 Z " fill="#000000" transform="translate(150,120)"/>
+<path d="M0 0 C3.3 0 6.6 0 10 0 C10 3.3 10 6.6 10 10 C6.7 10 3.4 10 0 10 C0 6.7 0 3.4 0 0 Z " fill="#E2FF8B" transform="translate(210,100)"/>
+<path d="M0 0 C3.3 0 6.6 0 10 0 C10 3.3 10 6.6 10 10 C6.7 10 3.4 10 0 10 C0 6.7 0 3.4 0 0 Z " fill="#000000" transform="translate(110,70)"/>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: visioncortex VTracer 0.6.4 -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="160" height="160">
+<path d="M0 0 C3.3 0 6.6 0 10 0 C10 3.3 10 6.6 10 10 C13.3 10 16.6 10 20 10 C20 13.3 20 16.6 20 20 C23.3 20 26.6 20 30 20 C30 23.3 30 26.6 30 30 C26.7 30 23.4 30 20 30 C20 33.3 20 36.6 20 40 C13.4 40 6.8 40 0 40 C0 36.7 0 33.4 0 30 C-3.3 30 -6.6 30 -10 30 C-10 23.4 -10 16.8 -10 10 C-6.7 10 -3.4 10 0 10 C0 6.7 0 3.4 0 0 Z " fill="#FFFFFF" transform="translate(10,40)"/>
+<path d="M0 0 C19.8 0 39.6 0 60 0 C60 3.3 60 6.6 60 10 C40.2 10 20.4 10 0 10 C0 6.7 0 3.4 0 0 Z " fill="#FFFFFF" transform="translate(30,140)"/>
+<path d="M0 0 C3.3 0 6.6 0 10 0 C10 19.8 10 39.6 10 60 C6.7 60 3.4 60 0 60 C0 40.2 0 20.4 0 0 Z " fill="#FFFFFF" transform="translate(100,70)"/>
+<path d="M0 0 C3.3 0 6.6 0 10 0 C10 6.6 10 13.2 10 20 C16.6 20 23.2 20 30 20 C30 23.3 30 26.6 30 30 C20.1 30 10.2 30 0 30 C0 20.1 0 10.2 0 0 Z " fill="#FFFFFF" transform="translate(50,70)"/>
+<path d="M0 0 C16.5 0 33 0 50 0 C50 3.3 50 6.6 50 10 C33.5 10 17 10 0 10 C0 6.7 0 3.4 0 0 Z " fill="#FFFFFF" transform="translate(30,40)"/>
+<path d="M0 0 C3.3 0 6.6 0 10 0 C10 9.9 10 19.8 10 30 C6.7 30 3.4 30 0 30 C0 20.1 0 10.2 0 0 Z " fill="#FFFFFF" transform="translate(10,100)"/>
+<path d="M0 0 C3.3 0 6.6 0 10 0 C10 3.3 10 6.6 10 10 C6.7 10 3.4 10 0 10 C0 6.7 0 3.4 0 0 Z " fill="#FFFFFF" transform="translate(90,130)"/>
+<path d="M0 0 C3.3 0 6.6 0 10 0 C10 3.3 10 6.6 10 10 C6.7 10 3.4 10 0 10 C0 6.7 0 3.4 0 0 Z " fill="#FFFFFF" transform="translate(20,130)"/>
+<path d="M0 0 C3.3 0 6.6 0 10 0 C10 3.3 10 6.6 10 10 C6.7 10 3.4 10 0 10 C0 6.7 0 3.4 0 0 Z " fill="#FFFFFF" transform="translate(90,60)"/>
+<path d="M0 0 C3.3 0 6.6 0 10 0 C10 3.3 10 6.6 10 10 C6.7 10 3.4 10 0 10 C0 6.7 0 3.4 0 0 Z " fill="#FFFFFF" transform="translate(80,50)"/>
+</svg>
