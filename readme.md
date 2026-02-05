@@ -1,4 +1,4 @@
-# PixelIcons
+# PixelIcns
 
 PixelIcns is a web tool with pixelated icons.
 
