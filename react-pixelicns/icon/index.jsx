@@ -143,7 +143,17 @@ export default function Microsoft() {
 export default function Void() {
     return (
         <div className="NullIcon">
-            <img src=""/>
+            <img src="https://raw.githubusercontent.com/nico1monte/PixelIcns/ae8d65c55be8c330ff370c21d72c9c544dd070c4/icons/svg/void.svg" width={width} height={height} title={titleProp} alt={altProp}/>
+        </div>
+    )
+}
+
+// Custom
+
+export default function CustomIcon(icon) {
+    return (
+        <div className="CustomIcon">
+            <img src={icon} width={width} height={height} title={titleProp} alt={altProp}/>
         </div>
     )
 }
